@@ -1,5 +1,10 @@
-## Hi there 👋
+### Hi 👋 my name is Jose David and I am a Software Engineering student at Instituto Tecnológico de Costa Rica
 
+Currículum: <a href="Curriculum.pdf">Visuaizar currículum</a> 
+
+Email: <a href="mailto:josedsrobles@gmail.com">josedsrobles@gmail.com</a> 
+
+Linkedin: <a href="https://www.linkedin.com/in/josedavidserrano/">Linkedin</a>
 <!--
 **Jose-Serrano1/Jose-Serrano1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
